@@ -1,5 +1,7 @@
-#Livro de receitas 
+#Livro de receitas  :man_cook: 
 Bem vindo ao meu livro de receitas 
+
 - Strogonoff de frango 
-- Macarrao e sopa e queijo
+- Frango 
 - Creme de leite 
+- Tempero
